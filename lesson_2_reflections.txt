@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When we initialize a repository, it will change the repository to git repository. This is for doing git command on that repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area will save the file which you want to add in git repository. It will help us to not be confused by the files in repository.
